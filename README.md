@@ -1,9 +1,9 @@
-Poems_generator_Keras
+Poems_ai_project
 ========
  
 - 唐诗，古诗，五言绝句自动生成，基于Keras，LSTM-RNN。       
 - 附带训练好的模型文件，可直接上手使用。         
-- 功能：藏头诗，随机写诗，给定第一句诗/字进行作诗        
+- 努力當好小吞寶        
  
  
 
@@ -12,6 +12,7 @@ Poems_generator_Keras
 
 
 在GPU Tesla K80上，2s/epoch，一共有3w+个epoch。训练时的测试结果令人满意：
+目前跑到1500電腦就會罷工QQ
 
 
 ==================Epoch 4304=====================     
